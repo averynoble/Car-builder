@@ -1,0 +1,8 @@
+.choices {
+    display: flex;
+    padding: auto;
+    margin: auto;
+}
+ul {
+    list-style-type: none;
+}
